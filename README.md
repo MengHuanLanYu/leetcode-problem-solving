@@ -48,6 +48,9 @@
       + [vue.js](https://cn.vuejs.org/)
       + [vue-cli](https://cli.vuejs.org/zh/guide/)
       + [jquery](https://api.jquery.com/)
+      + [axios](http://www.axios-js.com/)
+      + ajax
+      + ......
     - html
       + h5
       + [element-ui](https://element.eleme.cn/#/zh-CN)

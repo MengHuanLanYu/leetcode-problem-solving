@@ -17,38 +17,45 @@
 
 --------
 
-# 广告
-代做大学毕业设计,可包论文,有需要的朋友可以联系;
-仅限**java语言**的动态网站
+# 简单广告
+> 代做大学毕业设计,可包论文,有需要的朋友可以联系;
+
+>仅限**java语言**的动态网站
+
+>**包文档、讲解、部署**
+
+
+--------
 
 ## 可用技术栈
 
 1. java后端相关
-    - Spring
+    - [Spring](https://spring.io/)
       + SpringMVC
       + SpringBoot
       + SpringCloud
+      + Spring Data JPA
       + ......
-    - MyBatis
-      + TKMybatis
-      + Mybatis-Plus
-    - Hibernate
-    - Spring Data JPA
+    - [MyBatis](https://mybatis.org/mybatis-3/zh/index.html)
+      + [TKMybatis](https://github.com/abel533/Mapper/wiki)
+      + [Mybatis-Plus](https://mp.baomidou.com/)
+    - [Hibernate](http://hibernate.org/)
     - Servlet
     - JSP
-    - thymeleaf
+    - [thymeleaf](https://www.thymeleaf.org/)
 2. 前端相关
     - javaScript
-      + vue
-      + jquery
+      + [vue.js](https://cn.vuejs.org/)
+      + [vue-cli](https://cli.vuejs.org/zh/guide/)
+      + [jquery](https://api.jquery.com/)
     - html
       + h5
-      + element-ui
-      + bootstrap
-      + iView
-      + Ant Design Vue
-      + color ui
-      + vant
+      + [element-ui](https://element.eleme.cn/#/zh-CN)
+      + [bootstrap](https://v3.bootcss.com/)
+      + [iView](http://v1.iviewui.com/)
+      + [Ant Design Vue](https://www.antdv.com/docs/vue/introduce-cn/)
+      + [color-ui](https://www.color-ui.com/)
+      + [vant](https://youzan.github.io/vant/)
 3. 数据库相关
     - 关系型
       + mysql
@@ -58,3 +65,8 @@
       + redis
       + mongodb
 3. 微信小程序、公众号
+4. 其他中间件如 RabbitMQ、Kafka等
+
+> 注: 使用Nacos的微服务也可做
+
+> 企业项目也可
